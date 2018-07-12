@@ -145,6 +145,10 @@
     <gap:plugin name="cordova-android-support-gradle-release" spec="https://github.com/dpa99c/cordova-android-support-gradle-release">
         <variable name="ANDROID_SUPPORT_VERSION" value="27.+" />
     </gap:plugin> 
+        
+    <gap:plugin name="cordova-support-android-plugin" source="npm" version="1.0.1" />
+    <gap:plugin name="cordova.plugins.diagnostic" source="npm" version="4.0.8" />
+        
     <gap:plugin name="ionic-plugin-keyboard" source="npm" version="2.2.1" />
     <gap:plugin name="cordova-plugin-zip" source="npm" version="3.1.0" />
     <gap:plugin name="cordova-plugin-local-notifications-mm" source="npm" />
