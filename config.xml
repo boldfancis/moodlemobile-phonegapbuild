@@ -14,6 +14,8 @@
     <author href="http://moodle.com" email="francis.mashalla@out.ac.tz">
         EDMS Team
     </author>
+        
+    <preference name="phonegap-version" value="cli-6.3.1" />
 
     <gap:config-file platform="ios" parent="CFBundleShortVersionString">
         <string>3.3.2</string>
