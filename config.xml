@@ -147,6 +147,7 @@
     </gap:plugin> 
              
     <gap:plugin name="cordova-support-android-plugin" source="npm" version="1.0.1" />
+    <gap:plugin name="cordova.plugins.diagnostic" source="npm" version="4.0.8" />
     
         
     <gap:plugin name="ionic-plugin-keyboard" source="npm" version="2.2.1" />
